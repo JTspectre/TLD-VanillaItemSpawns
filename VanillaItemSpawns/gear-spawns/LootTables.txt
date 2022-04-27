@@ -1,0 +1,9 @@
+# Water1000ml
+loottable=LockerLocked
+item=GEAR_Water1000ml w=1
+#loottable=BackPack
+#item=GEAR_Water1000ml w=1
+
+# This will disable SampleItemA in SampleLootTableA!
+#loottable=SampleLootTableA
+#item=GEAR_SampleItemA w=0

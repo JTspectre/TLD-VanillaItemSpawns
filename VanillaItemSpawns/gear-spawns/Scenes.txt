@@ -1,0 +1,4 @@
+# Bush-Plane Crash
+scene=MountainTownRegion
+item=GEAR_KnifeScrapMetal p=2012.9390,380.6432,1456.9180 r=7.3603,64.8553,357.3148 c=100
+#item=GEAR_Water1000ml p=0.0000,0.0000,0.0000 r=0.0000,0.0000,0.0000 c=100
