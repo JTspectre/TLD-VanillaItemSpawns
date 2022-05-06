@@ -1,4 +1,3 @@
-# 
 LootTables/Gear-Spawns for vanilla items in The Long Dark.
 
 ## Installation
@@ -6,7 +5,7 @@ LootTables/Gear-Spawns for vanilla items in The Long Dark.
 * Drag the `VanillaItemSpawns` folder to `ModComponentExtractor.exe`
 * Move the resulting `VanillaItemSpawns.modcomponent` to your /mods folder
 
-## Credits:
+## Special thanks to:
 Hinterland Studios
 
 The Long Dark Modding discord server
