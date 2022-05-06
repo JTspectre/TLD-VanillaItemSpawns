@@ -1,4 +1,4 @@
-LootTables/Gear-Spawns for vanilla items in The Long Dark.
+Loot-Tables/Gear-Spawns for vanilla items in The Long Dark.
 
 ## Installation
 * Download and install [ModComponentExtractor.exe](https://github.com/ds5678/ModComponentExtractor/releases/latest)
