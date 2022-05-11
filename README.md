@@ -6,6 +6,5 @@ Loot-Tables/Gear-Spawns for vanilla items in The Long Dark.
 * Move the resulting `VanillaItemSpawns.modcomponent` to your /mods folder
 
 ## Special thanks to:
-Hinterland Studios
-
-The Long Dark Modding discord server
+* Hinterland Studios
+* [The Long Dark Modding discord server](https://discord.gg/DmEZK4XZ3g)
